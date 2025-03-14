@@ -9,6 +9,8 @@ som=somme(my_list)
 prnt('la somme est=',com)
 =======
 my_list=[1,5,7]
+if my_list :
 print('la somme est :',sum(my_list))
+<<<<<<< HEAD
 
->>>>>>> feature_list
+
